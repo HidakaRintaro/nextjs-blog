@@ -1,5 +1,5 @@
 ---
-title: 'When to Use Static Generation v.s. Server-side Rendering'
+title: 'ブランチを切って内容を変更してみた'
 date: '2020-01-02'
 ---
 
